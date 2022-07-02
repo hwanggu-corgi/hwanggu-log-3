@@ -1,11 +1,18 @@
 ### July 1st, 2022
 
-Commit #29927
+Commit #29928
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
 
 ========
+
+- Corgi working on creating an app that constantly pushes commits to github with ability to add text to be with my love, let her know I love her so much, and I am always with my dearest
+  - Corgi working on creating CRC card
+  - Corgi completed creating user story
+  - Corgi completed acquiring user requirements
+  - Corgi completed creating a main hello world program in java using picocli library
+  - Corgi completed adding external java library
 
 - Corgi working on company tasks
   - Corgi working on fixing `gardencomm.org`
@@ -120,13 +127,6 @@ Commit #29927
   - Corgi completed fixing precious_lamb.morwebcms.com
     - Corgi completed satisfying client's demand about change in calendar to look certain way on `/Calendar` page
       - 나의 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-
-- Corgi working on creating an app that constantly pushes commits to github with ability to add text to be with my love, let her know I love her so much, and I am always with my dearest
-  - Corgi working on creating CRC card
-  - Corgi completed creating user story
-  - Corgi completed acquiring user requirements
-  - Corgi completed creating a main hello world program in java using picocli library
-  - Corgi completed adding external java library
 
 - Corgi working on creating presentable projects for employers
   - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
