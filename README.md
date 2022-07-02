@@ -1,6 +1,6 @@
 ### July 1st, 2022
 
-Commit #45394
+Commit #45395
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -10,7 +10,8 @@ Commit #45394
 - Corgi working on creating presentable projects for employers
   - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 2 material
-      - Corgi working on video `Expressing Design Structures in Java & UML Class Diagrams - Decomposition in Java and UML`
+      - Corgi working on video `Expressing Design Structures in Java & UML Class Diagrams - Generalization in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Decomposition in Java and UML`
       - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Encapsulation in Java and UML`
       - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Abstraction in Java and UML`
       - Corgi completed video `Four Design Principles - Generalization`
