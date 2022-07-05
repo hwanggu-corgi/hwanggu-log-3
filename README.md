@@ -1,6 +1,6 @@
 ### July 4th, 2022
 
-Commit #62567
+Commit #62568
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -10,7 +10,8 @@ Commit #62567
 
 - Corgi working on company tasks
   - Corgi working on fixing `gvc.morwebcms.com`
-    - Corgi working on refining donation form on `/Donate-to-GVOS` page
+    - Corgi completed adding confirmation email template for `/Donate-to-GVOS` page
+    - Corgi completed refining donation form on `/Donate-to-GVOS` page
     - Corgi completed adding thermometer on `/test` page
     - Corgi completed adding event start date under `events` section
     - Corgi completed fixing `RVSP` button on `/eshop-events-one/details/12/GV-River-School-Tour` page
