@@ -1,6 +1,6 @@
 ### July 5th, 2022
 
-Commit #16158
+Commit #16159
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,7 +9,7 @@ Commit #16158
 
 
 - Corgi working on company tasks
-  - Corgi working on fixing liveinambleton.ca
+  - Corgi working on fixing `liveinambleton.com`
     - Corgi working on fixing low resolution image on `/schools` page
   - Corgi completed fixing `gvc.morwebcms.com`
     - Corgi completed adding confirmation email template for `/Donate-to-GVOS` page
