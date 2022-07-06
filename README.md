@@ -1,6 +1,6 @@
 ### July 5th, 2022
 
-Commit #24887
+Commit #24888
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,6 +9,8 @@ Commit #24887
 
 
 - Corgi working on company tasks
+  - Corgi making changes to precious_lamb.morwebcms.com
+    - Corgi working on changing color of squares from green to white and change to purple on hover on `/Calendar` page
   - Corgi working on making `Muleball Brothers for Life` website
     - Corgi working on developing footer
     - Corgi working on adding color palettes
