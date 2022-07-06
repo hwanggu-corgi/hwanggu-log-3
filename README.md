@@ -1,6 +1,6 @@
 ### July 5th, 2022
 
-Commit #23087
+Commit #23088
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -10,7 +10,10 @@ Commit #23087
 
 - Corgi working on company tasks
   - Corgi working on making `Muleball Brothers for Life` website
-    - Corgi working on setting up development environment
+    - Corgi working on developing footer
+    - Corgi working on adding color palettes
+    - Corgi completed setting up development environment
+      - Corgi our url: `mbl.morwebcms.com`
   - Corgi completed fixing `liveinambleton.com`
     - Corgi working on fixing low resolution image on `/schools` page
   - Corgi completed fixing `gvc.morwebcms.com`
