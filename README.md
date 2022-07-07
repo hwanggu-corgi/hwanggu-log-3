@@ -1,6 +1,6 @@
 ### July 5th, 2022
 
-Commit #33697
+Commit #33698
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -283,7 +283,7 @@ Commit #33697
  💕 내 ✨🌟🌼💐🌸🌷사랑아🌷🌸💐🌼🌟✨  💕
   💕    우리 소중한 내 🌸사랑이🌸는   💕
    💕        언제 어디서나       💕
-     💕 나의 최고의 여인입니다💖  💕
+     💕 나의 최고의 여인이에요💖  💕
        💕                 💕
          💕             💕
           💕         💕
