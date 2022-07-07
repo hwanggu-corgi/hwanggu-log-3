@@ -1,6 +1,6 @@
 ### July 7th, 2022
 
-Commit #8175
+Commit #8176
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,17 +9,17 @@ Commit #8175
 
 
 - Corgi working on company tasks
-  - Corgi working on `brightstarschools2.morwebcms.com`
-    - Corgi working on adding decoration to icons under `20 years support` section on `/TK-12-Pathway` page
-  - Corgi working on accessibility for `ats.edu`
-    - Corgi resolving more problems
-  - Corgi completed making changes to precious_lamb.morwebcms.com
-    - Corgi working on changing color of squares from green to white and change to purple on hover on `/Calendar` page
   - Corgi working on making `Muleball Brothers for Life` website
     - Corgi working on developing footer
     - Corgi working on adding color palettes
     - Corgi completed setting up development environment
       - Corgi our url: `mbl.morwebcms.com`
+  - Corgi completed `brightstarschools2.morwebcms.com`
+    - Corgi completed adding decoration to icons under `20 years support` section on `/TK-12-Pathway` page
+  - Corgi working on accessibility for `ats.edu`
+    - Corgi resolving more problems
+  - Corgi completed making changes to precious_lamb.morwebcms.com
+    - Corgi working on changing color of squares from green to white and change to purple on hover on `/Calendar` page
   - Corgi completed fixing `liveinambleton.com`
     - Corgi working on fixing low resolution image on `/schools` page
   - Corgi completed fixing `gvc.morwebcms.com`
