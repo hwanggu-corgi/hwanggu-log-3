@@ -1,6 +1,6 @@
 ### July 5th, 2022
 
-Commit #34887
+Commit #34888
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,6 +9,8 @@ Commit #34887
 
 
 - Corgi working on company tasks
+  - Corgi working on `brightstarschools2.morwebcms.com`
+    - Corgi working on adding decoration to icons under `20 years support` section on `/TK-12-Pathway` page
   - Corgi working on accessibility for `ats.edu`
     - Corgi resolving more problems
   - Corgi completed making changes to precious_lamb.morwebcms.com
