@@ -1,6 +1,6 @@
 ### July 7th, 2022
 
-Commit #30752
+Commit #30753
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,8 +9,9 @@ Commit #30752
 
 
 - Corgi working on company tasks
-  - Corgi working on making `Muleball Brothers for Life` website
-    - Corgi working on developing footer
+  - Corgi working on developing `mbl.morwebcms.com`
+    - Corgi working on developing header
+    - Corgi completed developing footer
       - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중하구 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 최고!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
     - Corgi working on adding color palettes
     - Corgi completed setting up development environment
