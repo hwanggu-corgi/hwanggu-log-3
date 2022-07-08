@@ -1,12 +1,15 @@
 ### July 7th, 2022
 
-Commit #32629
+Commit #32630
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
 
 ========
 
+- Corgi working on building resume for amazon.ca
+  - Corgi working on building education section
+  - Corgi completed building work experience section
 
 - Corgi working on company tasks
   - Corgi working on developing `mbl.morwebcms.com`
