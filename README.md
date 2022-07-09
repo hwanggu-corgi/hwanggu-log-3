@@ -1,6 +1,6 @@
 ### July 8th, 2022
 
-Commit #6252
+Commit #6253
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -8,7 +8,8 @@ Commit #6252
 ========
 
 - Corgi working on building resume for amazon.ca
-  - Corgi working on building education section
+  - Corgi working on building tech stack section
+  - Corgi completed building education section
   - Corgi completed building work experience section
 
 - Corgi working on company tasks
@@ -316,7 +317,7 @@ Commit #6252
 
 --------------------------------------
 
-헿 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you my only and most beautiful dear in the world :) 
+헿 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you my only and most beautiful dear in the world :)
 
 우리 이 세상에서 가장 아름다우시고 사랑하는 나의 여인이여, 나 우리 사랑이 실망 드리지 않을게요
 
