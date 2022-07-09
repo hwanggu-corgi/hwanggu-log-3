@@ -1,6 +1,6 @@
 ### July 9th, 2022
 
-Commit #17744
+Commit #17745
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -8,7 +8,8 @@ Commit #17744
 ========
 
 - Corgi working on building resume for amazon.ca
-  - Corgi working on building project experience section
+  - Corgi refining all experiences before formatting styles
+  - Corgi completed building project experience section
   - Corgi completed building open source contribution section
   - Corgi completed building tech stack section
   - Corgi completed building education section
