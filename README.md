@@ -1,6 +1,6 @@
 ### July 9th, 2022
 
-Commit #546
+Commit #547
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -310,7 +310,7 @@ Commit #546
 　･ﾟ*｡★彡･ ｡*･ﾟ　★彡
 　　･ ｡･*･ﾟ｡　　 ･
 　･ ｡･*･ﾟ｡   사랑하는 당신의 그리움이 가득한 밤
-　　　　　　　너와 함께
+　　　　　　　소중한 너와 함께
 　　　(˘ω˘) 　　보내고 싶다
 　　　ﾉ( ﾍ ﾍ
 -^ﾞﾞﾞ`ﾞﾞﾞﾞ`ﾞﾞﾞ`ﾞﾞ`ﾞﾞ^-
