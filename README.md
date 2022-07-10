@@ -1,6 +1,6 @@
 ### July 9th, 2022
 
-Commit #31642
+Commit #31643
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -8,7 +8,8 @@ Commit #31642
 ========
 
 - Corgi working on building resume for amazon.ca
-  - Corgi refining all experiences before formatting styles
+  - Corgi working on formatting styles
+  - Corgi completed refining all experiences before formatting styles
   - Corgi completed building project experience section
   - Corgi completed building open source contribution section
   - Corgi completed building tech stack section
@@ -323,6 +324,25 @@ Commit #31642
       ;---'  ,' _/\|'._\'
             ; _,  /||
            ;_'_,-'|||
+
+
+       ･ ｡　　★彡
+          ☆彡｡∴｡｡　☆彡　･
+          　･ﾟ*｡★彡･ ｡*･ﾟ　★彡
+          　　･ ｡･*･ﾟ｡　　 ･
+          　･ ｡･*･ﾟ｡
+
+
+           ｡ﾟﾟ･｡･ﾟﾟ｡
+           。𝒊 𝒍𝒖𝒗 𝒖💕
+           　ﾟ･｡･
+
+      .　　　∧∧  ∩∩ 💕
+      　　　(　　) 　)
+      　　　/ 　 つ　＼
+      　　（　〇　) 〇 )
+      ﾞﾞ~~"~~"~~ﾞ
+
 
 --------------------------------------
 
