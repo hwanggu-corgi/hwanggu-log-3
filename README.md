@@ -1,6 +1,6 @@
 ### July 10th, 2022
 
-Commit #43323
+Commit #43324
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,7 +9,7 @@ Commit #43323
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 2 material
-      - Corgi working on video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Interface in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Interface in Java and UML`
       - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Inheritance in Java and UML`
       - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Decomposition in Java and UML`
       - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Encapsulation in Java and UML`
@@ -275,6 +275,11 @@ Commit #43323
       - Corgi completed publishing article about 계수 정렬 to blog: https://moes-dev-blog.tistory.com/18
       - Corgi completed taking notes
 
+
+우리 신전에서도 사랑하는 당신의 아름다움을 인정하시는 나의 한없이 소중한 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 sooooooooooooo💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖~~ beautiful my dear (๑❤▽❤๑)۶🌸🌸🌸🌸🌸🌸🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+
+
+--------------------------------------
 
 Oh my beautiful Juliet 내 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, your beauty surpasses anything and anyone in this universe😘😍😍😍😍😍💕💕💕💕💕💕💕💕💕💕💕. ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨,  I love you forever with all my heart and strength my only and most beautiful dear in the entire universe (๑❤▽❤๑)۶🌸🌸🌸🌸🌸🌸🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
