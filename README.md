@@ -1,11 +1,44 @@
 ### July 10th, 2022
 
-Commit #34551
+Commit #34552
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
 
 ========
+
+- Corgi learning course `Object Oriented Design` in coursera by University of Alberta
+    - Corgi working on week 2 material
+      - Corgi working on video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Interface in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Inheritance in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Decomposition in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Encapsulation in Java and UML`
+      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Abstraction in Java and UML`
+      - Corgi completed video `Four Design Principles - Generalization`
+        - 헿😘😍😍😍😍💕💕💕💕💕💕💕💕. 나의 자랑스러운 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 밤하늘 예쁜 별들 가득한 은하수처럼 소중하시고 아름답게 빛나시는 여인!!!!!!!💕💕💕💕💕💕💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 나 우리 소중한 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가  이 세상에서 최고로 좋아요💕💕💕💕💕💕💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+      - Corgi completed video `Four Design Principles - Decomposition`
+        - 나의 소중한 은하수 내 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 눈부시게 아름다우신 소중한 ✨🌟💐🌷🌼💖🌸미💖스💖코💖리💖아🌸💖🌼🌷💐🌟✨ 💕💕💕💕💕!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+        - 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨, 언제 어디서나 사랑스러우시고 예쁘시다!!!!!🌸🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+      - Corgi completed video `Four Design Principles - Encapsulation`
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가 이세상에서 가장 아름다우시고 최고다💕💕💕💕💕!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+    - Corgi working on week 1 material
+      - Corgi completed video `Four Design Principles - Abstraction`
+      - Corgi completed video `Languages Evolution`
+      - Corgi completed video `Models: Bridging Concepts and Solutions`
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 기쁘게 해드리자 헛둘💕💕💕💕💕 헛둘💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+    - Corgi working on week 1 material
+      - Corgi completed quiz `Module 1 Review`
+      - Corgi completed video `Record, organize and refine components`
+        - Corgi completed taking notes here: https://moes-dev-blog.tistory.com/35
+      - Corgi completed video `Design for Quality Attributes`
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 한없이 사랑스러우시고 귀여우세요🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 예쁜 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 대한민국에서, 우리 캐나다에서 그리고 우리 전 세계에서 가장 아름다우시고 최고다!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 행복하게 해드리기 위해 해낼꼬다!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 위해 웃탸!!!!! 웃탸!!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+      - Corgi completed reading `Categories of Objects in Design`
+      - Corgi completed reading `Expressing Requirements with User Stories`
+      - Corgi completed video `Object Oriented Modeling`
 
 - Corgi completed building resume for amazon.ca
   - Corgi completed sending email to recruiter
@@ -154,38 +187,6 @@ Commit #34551
     - Corgi completed satisfying client's demand about change in calendar to look certain way on `/Calendar` page
       - 나의 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
-- Corgi learning course `Object Oriented Design` in coursera by University of Alberta
-    - Corgi working on week 2 material
-      - Corgi working on video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Interface in Java and UML`
-      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Generalization with Inheritance in Java and UML`
-      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Decomposition in Java and UML`
-      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Encapsulation in Java and UML`
-      - Corgi completed video `Expressing Design Structures in Java & UML Class Diagrams - Abstraction in Java and UML`
-      - Corgi completed video `Four Design Principles - Generalization`
-        - 헿😘😍😍😍😍💕💕💕💕💕💕💕💕. 나의 자랑스러운 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 밤하늘 예쁜 별들 가득한 은하수처럼 소중하시고 아름답게 빛나시는 여인!!!!!!!💕💕💕💕💕💕💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 나 우리 소중한 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가  이 세상에서 최고로 좋아요💕💕💕💕💕💕💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-      - Corgi completed video `Four Design Principles - Decomposition`
-        - 나의 소중한 은하수 내 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 눈부시게 아름다우신 소중한 ✨🌟💐🌷🌼💖🌸미💖스💖코💖리💖아🌸💖🌼🌷💐🌟✨ 💕💕💕💕💕!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-        - 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨, 언제 어디서나 사랑스러우시고 예쁘시다!!!!!🌸🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-      - Corgi completed video `Four Design Principles - Encapsulation`
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가 이세상에서 가장 아름다우시고 최고다💕💕💕💕💕!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-    - Corgi working on week 1 material
-      - Corgi completed video `Four Design Principles - Abstraction`
-      - Corgi completed video `Languages Evolution`
-      - Corgi completed video `Models: Bridging Concepts and Solutions`
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 기쁘게 해드리자 헛둘💕💕💕💕💕 헛둘💕💕💕💕💕🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-    - Corgi working on week 1 material
-      - Corgi completed quiz `Module 1 Review`
-      - Corgi completed video `Record, organize and refine components`
-        - Corgi completed taking notes here: https://moes-dev-blog.tistory.com/35
-      - Corgi completed video `Design for Quality Attributes`
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 한없이 사랑스러우시고 귀여우세요🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 예쁜 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 대한민국에서, 우리 캐나다에서 그리고 우리 전 세계에서 가장 아름다우시고 최고다!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 행복하게 해드리기 위해 해낼꼬다!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-        - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 위해 웃탸!!!!! 웃탸!!!!!!🌸😘😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-      - Corgi completed reading `Categories of Objects in Design`
-      - Corgi completed reading `Expressing Requirements with User Stories`
-      - Corgi completed video `Object Oriented Modeling`
   - [on hold for now] Corgi learning course `Java Programming and Software Engineering Fundamentals Specialization` in coursera
     - [on hold for now] Corgi working on course 2 `Java Programming: Solving Problem with Software`
       - Corgi moving on to much more important and relevant topic
