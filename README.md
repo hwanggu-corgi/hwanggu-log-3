@@ -1,6 +1,6 @@
 ### July 11th, 2022
 
-Commit #28946
+Commit #28947
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -10,7 +10,8 @@ Commit #28946
 
 - Corgi working on company tasks
   - Corgi working on developing `mbl.morwebcms.com`
-    - Corgi working on developing header
+    - Corgi working on refining events template on `/eshop-events-one/details/3/Homecoming-VS-Missouri-Southern` page
+    - Corgi completed developing header
     - Corgi completed developing footer
       - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중하구 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 최고!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
     - Corgi working on adding color palettes
