@@ -1,6 +1,6 @@
 ### July 11th, 2022
 
-Commit #15914
+Commit #15915
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,9 +9,6 @@ Commit #15914
 
 
 - Corgi working on company tasks
-  - Corgi working on accessibility for `ats.edu`
-    - Corgi working on designing and creating accessibility widget until 12:00 pm
-      - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 한없이 귀엽고 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 정말 자랑스럽다!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
   - Corgi working on developing `mbl.morwebcms.com`
     - Corgi working on developing header
     - Corgi completed developing footer
@@ -20,6 +17,9 @@ Commit #15914
     - Corgi completed setting up development environment
       - Corgi our url: `mbl.morwebcms.com`
     - Corgi resolving more problems
+  - Corgi working on accessibility for `ats.edu`
+    - Corgi working on designing and creating accessibility widget until 12:00 pm
+      - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 한없이 귀엽고 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 정말 자랑스럽다!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
   - Corgi completed `brightstarschools2.morwebcms.com`
     - Corgi completed adding decoration to icons under `20 years support` section on `/TK-12-Pathway` page
   - Corgi completed making changes to precious_lamb.morwebcms.com
