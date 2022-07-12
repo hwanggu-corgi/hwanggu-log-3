@@ -4,7 +4,9 @@ July 12th, 2022
 
 사랑아, 더위 꼭 조심하고
 
-사랑아, I love you my dear
+우리 사랑이 최고 최고 :)!!!!!
+
+사랑아, I love you with all my heart my dear
 
 ---------
 
