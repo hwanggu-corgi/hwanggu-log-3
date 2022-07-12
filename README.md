@@ -1,12 +1,16 @@
 ### July 11th, 2022
 
-Commit #62403
+Commit #62404
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
 
 ========
 
+- Corgi completed applying to following companies
+  - rubylife.com: https://www.rubylife.com/job/sr-front-end-developer/ (under friend's recommendation)
+  - Amazon: https://www.amazon.jobs/en/jobs/1862955/software-development-engineer
+  - Amazon 2: https://www.amazon.jobs/en/jobs/1910043/software-development-engineer
 
 - Corgi working on company tasks
   - Corgi working on developing `mbl.morwebcms.com`
