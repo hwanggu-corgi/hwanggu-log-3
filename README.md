@@ -19,7 +19,7 @@ July 12th, 2022
 
 우리 밤하늘 수많은 예쁜 별들이 노래하듯 아름답게 빛나시는 우리 소중한 은하수 내 사랑아, I love you with all my heart and strength my only and most beautiful dear in the entire universe❤️ 
 
-
+사랑아, 우리 소중한 내 사랑이 최고!!!!!!
 
 ---------
 
