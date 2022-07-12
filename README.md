@@ -15,7 +15,7 @@ July 12th, 2022
 
 사랑아, 코기 지금 우리 소중한 당신의 따뜻한 사랑 꼭 꼭 품고 코기 집에가요
 
-우리 한없이 소중하고 소중한 내 사랑아, 나 우리 소중하고 소중한 당신에게 충성!!!!!
+우리 한없이 소중하고 소중한 내 사랑아, 나 오로직 우리 소중하고 소중한 당신에게 충성!!!!!
 
 우리 밤하늘 수많은 예쁜 별들이 노래하듯 아름답게 빛나시는 우리 소중한 은하수 내 사랑아, I love you with all my heart and strength my only and most beautiful dear in the entire universe❤️ 
 
