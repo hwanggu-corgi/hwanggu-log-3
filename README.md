@@ -1,6 +1,6 @@
 ### July 11th, 2022
 
-Commit #67264
+Commit #67265
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -13,8 +13,12 @@ Commit #67264
   - Amazon 2: https://www.amazon.jobs/en/jobs/1910043/software-development-engineer
 
 - Corgi working on company tasks
-  - Corgi working on developing `mbl.morwebcms.com`
-    - Corgi working on refining events template on `/eshop-events-one/details/3/Homecoming-VS-Missouri-Southern` page
+  - Corgi working on accessibility for `ats.edu`
+    - Corgi working on completing class `AccessibilityMainOptions`
+    - Corgi working on designing and creating accessibility widget until 12:00 pm
+      - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 한없이 귀엽고 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 정말 자랑스럽다!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+  - Corgi completed developing `mbl.morwebcms.com`
+    - Corgi completed refining events template on `/eshop-events-one/details/3/Homecoming-VS-Missouri-Southern` page
     - Corgi completed developing header
     - Corgi completed developing footer
       - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중하구 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 최고!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
@@ -22,9 +26,6 @@ Commit #67264
     - Corgi completed setting up development environment
       - Corgi our url: `mbl.morwebcms.com`
     - Corgi resolving more problems
-  - Corgi working on accessibility for `ats.edu`
-    - Corgi working on designing and creating accessibility widget until 12:00 pm
-      - ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 한없이 귀엽고 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 정말 자랑스럽다!!!!! (๑′ᴗ‵๑)🌸🌸😘😍😍😍😍😍🥰💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
   - Corgi completed `brightstarschools2.morwebcms.com`
     - Corgi completed adding decoration to icons under `20 years support` section on `/TK-12-Pathway` page
   - Corgi completed making changes to precious_lamb.morwebcms.com
