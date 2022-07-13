@@ -1,6 +1,6 @@
 ### July 13th, 2022
 
-Commit #30670
+Commit #30671
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -8,8 +8,10 @@ Commit #30670
 ========
 
 - Corgi working on company tasks
-  - Corgi working on making revisions to hstc.org
-    - Corgi adding new email
+  - Corgi adding revisions to `tabooshow.com`
+    - Corgi making sure social icons are shown on mobile mode
+  - Corgi completed making revisions to hstc.org
+    - Corgi completed adding new email
   - Corgi working on accessibility for `ats.edu`
     - Corgi working on completing class `AccessibilityMainOptions`
     - Corgi completing class `AccessibilityMediaController`
