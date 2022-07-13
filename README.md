@@ -1,6 +1,6 @@
 ### July 12th, 2022
 
-Commit #14076
+Commit #14077
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -9,7 +9,7 @@ Commit #14076
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
-      - Corgi working on video `Cohesion and Correlation`
+      - Corgi working on video `Coupling and Cohesion`
     - Corgi working on week 2 material
       - Corgi working on peer-graded assignment `Capstone Assignment 1.1 - UML Class Diagram`
       - Corgi completed peer-graded assignment `Ungraded Assignment - UML Class Diagram`
