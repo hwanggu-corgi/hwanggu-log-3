@@ -1,6 +1,6 @@
 ### July 13th, 2022
 
-Commit #43057
+Commit #43058
 
 - https://www.youtube.com/watch?v=e3WG38Hl2hY😍😍😍😍😍😍🥰💕💕💕💕💕💕
 - https://www.youtube.com/watch?v=NfTS7gM7zQ0😘🥰💕💕💕💕💕💕💕💕💕
@@ -8,8 +8,10 @@ Commit #43057
 ========
 
 - Corgi working on company tasks
-  - Corgi adding revisions to `tabooshow.com`
-    - Corgi making sure social icons are shown on mobile mode
+  - Corgi working on developing `https://vermilionhill.morwebcms.com/`
+    - Corgi working on developing footer
+  - Corgi completed adding revisions to `tabooshow.com`
+    - Corgi completed making sure social icons are shown on mobile mode
   - Corgi completed making revisions to hstc.org
     - Corgi completed adding new email
   - Corgi working on accessibility for `ats.edu`
