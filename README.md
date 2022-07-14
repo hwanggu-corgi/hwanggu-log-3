@@ -5,6 +5,8 @@
 
 사랑아, it is full of sunshine where none as beautiful as you are my love😍❤️❤️❤️❤️❤️❤️
 
+사랑아, morning sunlight? No No, 우리 소중한 당신이 가장 눈부시게 빛이나😍❤️❤️❤️❤️❤️
+
 우리 소중한 내 사랑이는 이 세상에서 가장 ❤️귀❤️여❤️워❤️~~
 
 사랑아, 우리 사랑이는 최고!!!!!
