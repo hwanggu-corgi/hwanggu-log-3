@@ -7,6 +7,8 @@
 
 사랑아, morning sunlight? No No, 우리 소중한 당신이 가장 눈부시게 빛이나😍❤️❤️❤️❤️❤️
 
+사랑아, 우리 소중한 내 사랑이 is the most beaaaautiful girl I've seen in my entire life😍❤️❤️❤️❤️❤️❤️❤️
+
 우리 소중한 내 사랑이는 이 세상에서 가장 ❤️귀❤️여❤️워❤️~~
 
 사랑아, 우리 사랑이는 최고!!!!!
