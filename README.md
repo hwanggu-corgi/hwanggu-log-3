@@ -6,6 +6,8 @@
 
 우리 사랑이 is super beautiful and amazing!!!!
 
+사랑아, you really are my love😁❤️❤️❤️❤️❤️❤️❤️
+
 -------
 
 사랑아, good morning my beautiful dear😍❤️❤️❤️❤️!!!!
