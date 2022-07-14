@@ -1,5 +1,12 @@
 ### July 14th, 2022
 
+
+사랑아, good morning my beautiful dear😍❤️❤️❤️❤️!!!!
+
+사랑아, 우리 사랑이는 최고!!!!!
+
+-------
+
 사랑아, 코기 조심히 잘 갔다올게요
 
 우리 한없이 자랑스럽고 소중한 내 사랑아, I love you my dear
