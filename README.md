@@ -3,6 +3,10 @@
 
 사랑아, good morning my beautiful dear😍❤️❤️❤️❤️!!!!
 
+사랑아, it is full of sunshine where none as beautiful as you are my love😍❤️❤️❤️❤️❤️❤️
+
+우리 소중한 내 사랑이는 이 세상에서 가장 ❤️귀❤️여❤️워❤️~~
+
 사랑아, 우리 사랑이는 최고!!!!!
 
 -------
