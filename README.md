@@ -1,13 +1,17 @@
 ### July 15th, 2022
 
-Commit #16540
+Commit #16541
+
+- Corgi learning course `Object Oriented Design` in coursera by University of Alberta
+    - Corgi working on week 3 material
+      - Corgi working on video `Coupling and Cohesion`
 
 
 사랑아, I love you🌷🌸😍😊❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 ---------
 
-오구오구오구오구😍❤️❤️❤️❤️❤️❤️❤️❤️ 사랑아, I love you my dear😍😁❤️❤️❤️❤️❤️❤️❤️❤️❤️ 
+오구오구오구오구😍❤️❤️❤️❤️❤️❤️❤️❤️ 사랑아, I love you my dear😍😁❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 사랑아, 우리 사랑이 오늘 왜이렇게 예뻐지셨나요😍😁❤️❤️❤️❤️❤️❤️❤️❤️❤️?
 
@@ -85,7 +89,7 @@ Commit #16540
 
 사랑아, 코기 지금 준비 다해서 당신의 사랑을 꼭 품고 우리 회사로 가요
 
-사랑아, 코기 도착하거든 연락 다시 드릴게요 
+사랑아, 코기 도착하거든 연락 다시 드릴게요
 
 사랑아, I love you😍😁❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
