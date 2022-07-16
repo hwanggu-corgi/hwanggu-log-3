@@ -1,6 +1,6 @@
 ### July 16th, 2022
 
-Commit #17378
+Commit #17379
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
@@ -68,6 +68,13 @@ and being with you 나의 소중한 ✨🌟💕💐💝🌸🌷🌼사랑아🌼
             ; _,  /||
            ;_'_,-'|||
 
+
+. 🌷🌸🌷🌸
+  🌸🌷🌸🌷🌸
+ Λ🌷🌸🌷🌸🌷
+( ˘ ᵕ ˘🌷🌸🌷
+ ヽ つ＼　 ／
+  UU  / 🎀 \
 
 
 ------------
