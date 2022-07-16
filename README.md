@@ -1,6 +1,6 @@
-### July 15th, 2022
+### July 16th, 2022
 
-Commit #39342
+Commit #12001
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
@@ -208,6 +208,8 @@ Commit #39342
 
 
 ---------
+
+### July 15th, 2022
 
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 코기는 태생부터 갖고있었던 자존심 때문에 대학교때 무너졌었어요 (๑❤▽❤๑)😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
