@@ -1,10 +1,10 @@
 ### July 16th, 2022
 
-Commit #31376
+Commit #31377
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
-      - Corgi working on video `Coupling and Cohesion`
+      - Corgi completed video `Coupling and Cohesion`
 
 
 💕🌷💝🌸https://www.youtube.com/watch?v=8-IkNzhHzkg🌸💝🌷💕
