@@ -1,6 +1,6 @@
 ### July 15th, 2022
 
-Commit #27697
+Commit #27698
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
@@ -8,6 +8,15 @@ Commit #27697
 
 
 우리 밤하늘 모든 아름다움을 품으신듯 한없이 아름답게 빛나시는 나의 소중한 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you so much my only and most beautiful dear in the entire universe (๑❤▽❤๑)😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+
+     ／/　
+　　 /　 ;　　
+　。|　　:
+　　|　　　'i,　૮₍ ⸝⸝´ ˘ `⸝⸝ ₎ა
+☆　 'i　　　 ﾄ､_( ヽ∩∩ ) ___ ,　　.
+　.　　'i　　　　￣￣￣       　　;'
+　　　　丶,　　　　        　,／　　。ﾟ　☆
+　。ﾟ　　　　' ｰ- - - - '´´
 
 
 ---------
