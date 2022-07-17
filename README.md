@@ -1,6 +1,17 @@
+### July 17th, 2022
+
+Commit #2
+
+- Corgi learning course `Object Oriented Design` in coursera by University of Alberta
+    - Corgi working on week 3 material
+      - Corgi working on video `Information Hiding`
+      - Corgi completed video `Separation of Concerns`
+      - Corgi completed video `Coupling and Cohesion`
+
+
 ### July 16th, 2022
 
-Commit #59322
+Commit #58972
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
@@ -18,7 +29,7 @@ Commit #59322
 
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중하고 당신 뿐이야😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
-✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 나 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 어느 누구보다 많이 많이 사랑해요😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 늦은 밤이라서 그런지 의자에서 사랑하는 당신에게 글을 쓰는데 잠이 많이 쏟아지는구려😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
 
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 나 우리 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 어느 누구보다 많이 많이 사랑해요😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
