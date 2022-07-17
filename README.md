@@ -1,6 +1,6 @@
 ### July 17th, 2022
 
-Commit #416
+Commit #417
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
@@ -28,6 +28,15 @@ Oh my goodness. 나의 한없이 소중하고 귀한 내 ✨🌟💕💐💝🌸
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 우주 어느 누구보다 소중하고 귀한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 꼭💖 꼭💖 건강히 단단한 여인으로 오래 오래 있어주오 (๑❤▽❤๑)😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
 오구오구오구😘😍😍😍😍😍💕💕💕💕💕💕💕💕💕💕. 나의 소중한 귀요미 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, I love you with all my heart, and I always always love you my only and most beautiful dear in the entire universe (๑❤▽❤๑)😘😍😍😍😍😍🌸🌸🌸🌸🌸🌸🌸💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+
+
+.　　　　　　    (\∞(\
+　　　　　     （ᴗˬᴗ*)
+　  ☆*ﾟ*｡　｡*ﾟUU    )
+ 　*｡　 　☆　 　*U U
+　 ﾟ*｡ 사랑아, I love you my beautiful dear🌸🌷💕💕😍🥰｡*
+　　ﾟ*｡        ｡*ﾟ
+　　   　ﾟ*｡｡*ﾟ
 
 
 
