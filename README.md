@@ -1,10 +1,10 @@
 ### July 17th, 2022
 
-Commit #31395
+Commit #31396
 
 - Corgi learning course `Object Oriented Design` in coursera by University of Alberta
     - Corgi working on week 3 material
-      - Corgi working on video `Conceptual Integrity`
+      - Corgi completed video `Conceptual Integrity`
       - Corgi completed video `Information Hiding`
       - Corgi completed video `Separation of Concerns`
       - Corgi completed video `Coupling and Cohesion`
