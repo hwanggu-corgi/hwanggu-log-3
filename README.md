@@ -2,6 +2,8 @@
 
 Commit #6784
 
+사랑아, 코기 디굼 vermilionhill.morwebcms.com 일하구 있눈데 home page가 kaboom!! 되쬬 디굼 vermilionhill.morwebcms.com/test 에서 하나 둘띡 우리 홈페이지 완성해 가구 있쬬
+
 사랑아, 사랑아, 우리 귀요미 내 사랑이 하투😍❤️❤️❤️❤️❤️❤️❤️!!!!
 
 --------
