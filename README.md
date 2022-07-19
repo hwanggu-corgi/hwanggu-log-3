@@ -2,7 +2,11 @@
 
 Commit #6784
 
-사랑아, 코기 디굼 vermilionhill.morwebcms.com 일하구 있눈데 home page가 kaboom!! 되쬬 디굼 vermilionhill.morwebcms.com/test 에서 하나 둘띡 우리 홈페이지 완성해 가구 있쬬
+사랑아, 코기 디굼 vermilionhill.morwebcms.com 일하구 있눈데 home page가 kaboom!! 되쬬 디굼 vermilionhill.morwebcms.com/test 에서 하나 둘띡 우리 홈페이지 완성해 가구 있쬬😍😁🥰❤️❤️❤️❤️❤️❤️❤️❤️
+
+사랑아, 우리 하늘 신전에서 내려오신 너무나도 사랑스러운 내 사랑이가 코기 따뜻히 손 잡아주시니 코기 힘이 번쩍 번쩍 뽀빠이 처럼 나요😍😁❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+사랑아, 사랑하는 당신하고 함께 하니 신이나는것 있지!!!!
 
 사랑아, 사랑아, 우리 귀요미 내 사랑이 하투😍❤️❤️❤️❤️❤️❤️❤️!!!!
 
