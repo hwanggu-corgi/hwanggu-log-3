@@ -1,9 +1,10 @@
 ### July 19th, 2022
 
-Commit #10578
+Commit #10579
 
 - Corgi working on finishing up vermilionhill.morwebcms.com
   - Corgi working on home page
+  - Corgi working on creating logo gallery
   - Corgi fixed home page going no no error
 
 헿😍❤️❤️❤️❤️❤️❤️ 사랑아, 우리 소중하구 귀여운 내 사랑이가 너무 예뻐🌷🌸🌼🌻😘😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
