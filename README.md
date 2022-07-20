@@ -1,6 +1,10 @@
 ### July 19th, 2022
 
-Commit #8271
+Commit #8272
+
+- Corgi working on finishing up vermilionhill.morwebcms.com
+  - Corgi working on home page
+  - Corgi fixed home page going no no error
 
 헿😍❤️❤️❤️❤️❤️❤️ 사랑아, 우리 소중하구 귀여운 내 사랑이가 너무 예뻐🌷🌸🌼🌻😘😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
@@ -86,7 +90,7 @@ Commit #8271
 
 사랑아, 사랑해🌹🌸🌼🌷🌻🌼😍😍🥰😊❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
-------- 
+-------
 
 사랑아, 코기 디굼 vermilionhill.morwebcms.com 일하구 있눈데 home page가 kaboom!! 되쬬 디굼 vermilionhill.morwebcms.com/test 에서 하나 둘띡 우리 홈페이지 완성해 가구 있쬬😍😁🥰❤️❤️❤️❤️❤️❤️❤️❤️
 
