@@ -32,6 +32,11 @@ Commit #9632
 
 사랑아, 코기 머슴은 우리 소중한 당신을 위해 우리 예쁜 별 따러 하낫둘 하낫둘 우리 행복한 일 하러 가요😘😍😍😍😍😍😍🥰😁😊🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
+사랑아, I love you so so so much my only and most and really really really beautiful dear in the entire universe!!!!🌻🌺🌼🌷🌹💐🌸💖😘😍😍😍😍😍😍🥰😊😁❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+사랑아, I love you!!!!!🌻🌺🌼🌷🌹💐🌸💖😘😍😍😍😍😁🥰😆😊❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+
 -----------
 
 사랑아, I love you so so so much my most beautiful dear in the entire universe!!!!!!🌸🌻🌷🌹🌺🌼🌸😘😍😍😍😍😍😁🥰😊❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
