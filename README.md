@@ -1,8 +1,9 @@
 ### July 20th, 2022
 
-Commit #40609
+Commit #40610
 
 - Corgi working on fixing and improving goldenvalleycharter.org
+  - Corgi working on fixing popup video on `Home` page
 - Corgi completed building vermilionhill.morwebcms.com
 
 
